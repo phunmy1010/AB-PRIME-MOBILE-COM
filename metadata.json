@@ -1,0 +1,6 @@
+{
+  "name": "AB Prime Mobile",
+  "description": "Premium brand new and UK used iPhones, device trade-in, and professional device repair services in Benin City, Nigeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
